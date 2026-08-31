@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+packages/
+*.VisualState.xml
+TestResults/
+node_modules/
+UpgradeLog*.htm
+Backup/
